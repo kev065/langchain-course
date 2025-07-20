@@ -16,7 +16,7 @@ async def main():
             "math": {
                 "command": "python",
                 "args": [
-                    "/Users/edenmarco/GithubProjects/mcp-crash-course/servers/math_server.py"
+                    "/home/murithi/Dev/langchain-course/mcp-crash-course-langchain-mcp-adapters/servers/math_server.py"
                 ],
             },
             "weather": {
